@@ -1,0 +1,36 @@
+    h1 {color: burlywood;
+        border: 2px solid rosybrown;
+        font-family: 'Roboto Condensed', Helvetica
+        }
+
+    li {color: burlywood;
+        border: 2px solid rosybrown;
+        text-align: center;
+        font-family: 'Roboto', Helvetica
+        }
+
+    body {color: burlywood;
+        text-align: center;
+        font-family: 'Roboto', Helvetica
+        }
+
+    li {color: burlywood;
+        text-align: center;
+        font-family: 'Roboto', Helvetica;
+        margin: 10px;
+        padding: 10px
+    }
+
+    * {
+        padding:0px
+    }
+
+
+    .noway {
+        text-decoration: line-through;
+    }
+
+    #LinkedIn {
+        font-size: 20;
+
+    }
